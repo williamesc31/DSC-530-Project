@@ -1,7 +1,0 @@
-R-squared: 0.9182
-Mean Squared Error: 0.067612
-Regression Coefficients:
-Study Time: 0.0299
-Absences: -0.0994
-Parental Education: -0.0016
-Parental Support: 0.1493
