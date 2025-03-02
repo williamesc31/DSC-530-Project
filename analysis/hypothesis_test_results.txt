@@ -1,3 +1,0 @@
-T-test statistic: 64.37
-P-value: 0.000000
-Conclusion: Attendance significantly impacts GPA.
